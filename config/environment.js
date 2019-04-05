@@ -6,7 +6,7 @@ var environments = {
       FIREBASE_PROJECT_ID: 'asnap-f9095',
       FIREBASE_STORAGE_BUCKET: 'asnap-f9095.appspot.com',
       FIREBASE_MESSAGING_SENDER_ID: '976046144054',
-      GOOGLE_CLOUD_VISION_API_KEY: 'XXXX'
+      GOOGLE_CLOUD_VISION_API_KEY: 'AIzaSyBKgJvEgKRGJb8vvJ6zVJoBy6RUIlTp8PM'
     },
     production: {
       // app not secure for appstore 
